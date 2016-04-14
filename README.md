@@ -1,4 +1,4 @@
-# Docker PHP 5 container
+# PHP 5 docker image
 
 This is a [Docker](http://www.docker.com) image for [PHP 5](http://php.net/) suited to run [Laravel PHP Framework](http://laravel.com/).
 
@@ -14,4 +14,6 @@ This image works well with the below related images.
 
 ---
 
-:ok_hand: Happy Coding. If you have any feedback or questions, feel free to contact me on Twitter with [@vcarreira](https://twitter.com/vcarreira) or email with [vitor.carreira@gmail.com](mailto:vitor.carreira@gmail.com).
+:ok_hand: Happy Coding. 
+
+If you have any feedback or questions, feel free to contact me on Twitter with [@vcarreira](https://twitter.com/vcarreira) or email with [vitor.carreira@gmail.com](mailto:vitor.carreira@gmail.com).
