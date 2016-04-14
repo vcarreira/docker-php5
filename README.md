@@ -6,11 +6,11 @@ An automated build for this repo is available on the [Docker Hub](https://regist
 
 This image works well with the below related images.
 
-  - [vcarreira/nginx-php5-fpm](https://github.com/vcarreira/nginx-php5-fpm)
-  - [vcarreira/artisan](https://github.com/vcarreira/artisan)
-  - [vcarreira/composer](https://github.com/vcarreira/composer)
-  - [vcarreira/phpunit](https://github.com/vcarreira/phpunit)
-  - [vcarreira/phpspec](https://github.com/vcarreira/phpspec)
+  - [vcarreira/nginx-php5-fpm](https://registry.hub.docker.com/u/vcarreira/nginx-php5-fpm)
+  - [vcarreira/artisan](https://registry.hub.docker.com/u/vcarreira/artisan)
+  - [vcarreira/composer](https://registry.hub.docker.com/u/vcarreira/composer)
+  - [vcarreira/phpunit](https://registry.hub.docker.com/u/vcarreira/phpunit)
+  - [vcarreira/phpspec](https://registry.hub.docker.com/u/vcarreira/phpspec)
 
 ---
 
