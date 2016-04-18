@@ -27,8 +27,6 @@ RUN apt-get update -y && \
     php5-dev make  \
     wget \
     git \
-    curl
-
-RUN apt-get clean && rm -rf /var/lib/apt/lists/*
+    curl && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 CMD ["php", "-a"]
