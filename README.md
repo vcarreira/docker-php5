@@ -4,13 +4,17 @@ This is a [Docker](http://www.docker.com) image for [PHP 5](http://php.net/) sui
 
 An automated build for this repo is available on the [Docker Hub](https://registry.hub.docker.com/u/vcarreira/php5/).
 
-This image works well with the below related images.
+## Related images
+This image works is used across the [Docker Laravel](https://github.com/vcarreira/docker-laravel) multi-container solution.
 
+Images used by [Docker Laravel](https://github.com/vcarreira/docker-laravel)
   - [vcarreira/nginx-php5-fpm](https://registry.hub.docker.com/u/vcarreira/nginx-php5-fpm)
-  - [vcarreira/artisan](https://registry.hub.docker.com/u/vcarreira/artisan)
+  - [vcarreira/redis](https://registry.hub.docker.com/u/vcarreira/redis)
   - [vcarreira/composer](https://registry.hub.docker.com/u/vcarreira/composer)
-  - [vcarreira/phpunit](https://registry.hub.docker.com/u/vcarreira/phpunit)
+  - [vcarreira/artisan](https://registry.hub.docker.com/u/vcarreira/artisan)
+  - [vcarreira/node](https://registry.hub.docker.com/u/vcarreira/node)
   - [vcarreira/phpspec](https://registry.hub.docker.com/u/vcarreira/phpspec)
+  - [vcarreira/phpunit](https://registry.hub.docker.com/u/vcarreira/phpunit)
 
 ---
 
