@@ -15,6 +15,7 @@ RUN apt-get update -y && \
     php5-memcached \
     php5-imap \
     php5-pgsql \
+    php5-intl \
     php5-redis \
     php5-mongo \
     php5-sqlite \
